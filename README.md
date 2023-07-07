@@ -1,10 +1,10 @@
-### Hi there! 👋
+## Hi there! 👋
 
-My name is Renato and I'm a passionate M.Sc. Student in Operations Research at the prestigious Georgia Institute of Technology. I'm captivated by the power of mathematical modeling and algorithmic optimization to solve complex real-world problems. Welcome to my GitHub repository, where curiosity meets academia and innovation!
+My name is Renato and I'm a M.Sc. Student in Operations Research at the Georgia Institute of Technology. I'm captivated by the power of mathematical modeling and algorithmic optimization to solve complex real-world problems. Welcome to my GitHub repository, where curiosity meets academia and innovation!
 
 ## 📚 Academic Background
 
-I'm currently expanding my knowledge and expertise at Georgia Tech, pursuing a Master's Degree in Operations Research. My coursework and research delve into various areas of the discipline, including but not limited to linear programming, network design, integer programming, stochastic models, and dynamic programming. I am particularly interested in the intersection of these topics with machine learning and data science.
+I'm currently expanding my knowledge and expertise at Georgia Tech, pursuing a Master's Degree in Operations Research. My coursework and research delve into various areas of the discipline, including but not limited to linear programming, network design, integer programming, and dynamic programming.
 
 ## 💻 In This GitHub Repository
 
@@ -18,6 +18,6 @@ While this GitHub repository serves as a platform for me to share my academic en
 
 ## 🤝 Let's Connect
 
-Whether you're a fellow student, researcher, or simply someone interested in Operations Research, I'd love to connect! Please feel free to reach out to me through GitHub or [LinkedIn](insert your LinkedIn link here). Feedback, collaboration proposals, or academic discussions are always welcome!
+Whether you're a fellow student, researcher, or simply someone interested in Operations Research, I'd love to connect! Please feel free to reach out to me through GitHub or [LinkedIn](www.linkedin.com/in/renatomaynardetche). Feedback, collaboration proposals, or academic discussions are always welcome!
 
 ### Thank you for stopping by my repository. Enjoy exploring!
