@@ -9,11 +9,9 @@ I'm currently expanding my knowledge and expertise at Georgia Tech, pursuing a M
 
 In this space, I share my academic work and personal projects, focusing primarily on Operations Research models and algorithms. I believe that knowledge should be shared openly, and I'm committed to making my work accessible to anyone interested in this fascinating field.
 
-I strive to present my projects in a comprehensive and understandable way. Each model or algorithm has a dedicated README that includes a detailed explanation, potential applications, and, where applicable, references to academic papers or other resources. I hope that these resources can help others in their learning journey or research.
-
 ## 🎯 My Objectives
 
-While this GitHub repository serves as a platform for me to share my academic endeavors and explorations, my larger goal is to contribute to the collective knowledge in Operations Research. I hope that my work here sparks curiosity and fosters a culture of continuous learning and collaboration.
+While this GitHub repository serves as a platform for me to share my academic endeavors and explorations, my larger goal is to contribute to the collective knowledge in Operations Research.
 
 ## 🤝 Let's Connect
 
