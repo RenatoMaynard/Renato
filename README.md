@@ -4,7 +4,7 @@ My name is Renato and I'm a M.Sc. Student in Operations Research at the Georgia 
 
 ## 📚 Academic Background
 
-I'm currently expanding my knowledge and expertise at Georgia Tech, pursuing a Master's Degree in Operations Research. My coursework and research delve into various areas of the discipline, including but not limited to linear programming, network design, integer programming, and dynamic programming.
+I'm currently expanding my knowledge and expertise at Georgia Tech, pursuing a Master's Degree in Operations Research.
 
 ## 💻 In This GitHub Repository
 
